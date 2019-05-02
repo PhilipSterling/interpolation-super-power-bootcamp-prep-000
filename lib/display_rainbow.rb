@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
-def display_rainbow()
-  puts "R: #{red}, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+def display_rainbow(colors[a,b,c,d,e,f,g])
+  puts "R: #{a}, O: #{b} Y: #{c}, G: #{d}, B: #{e}, I: #{f}, V: #{g}"
 end
